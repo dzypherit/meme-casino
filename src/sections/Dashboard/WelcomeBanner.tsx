@@ -109,8 +109,8 @@ export function WelcomeBanner() {
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('#', '_blank')}>
-          💬 Telegram Community
+        <button onClick={() => window.open('https://t.me/casinoofmemes', '_blank')}>
+          💬 Telegram
         </button>
         <button onClick={() => window.open('https://twitter.com/casinoofmemes', '_blank')}>
           🐦 Twitter
