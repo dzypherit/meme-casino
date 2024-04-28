@@ -105,7 +105,7 @@ export function WelcomeBanner() {
       <div>
         <h1>Welcome to Casino of Memes $COME 👋</h1>
         <p>
-          A fair, simple and decentralized casino on Solana.
+        A fair, simple, and decentralized casino built on top of Solana Blockchain.
         </p>
       </div>
       <Buttons>
@@ -116,7 +116,7 @@ export function WelcomeBanner() {
           🐦 Twitter
         </button>
         <button onClick={() => window.open('#', '_blank')}>
-          🛒 Dex
+          🛒 Buy $COME
         </button>
       </Buttons>
     </Welcome>
