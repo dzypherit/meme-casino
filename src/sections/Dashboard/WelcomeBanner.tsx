@@ -108,7 +108,6 @@ export function WelcomeBanner() {
         A fair, simple, and decentralized casino built on top of Solana Blockchain.
         </p>
         <br/>
-        <br/>
         <p>
         Laugh and Gamble Responsibly
         </p>

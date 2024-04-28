@@ -58,14 +58,14 @@ export default function App() {
             <div style={{ maxHeight: '400px', padding: '10px', overflow: 'auto', position: 'relative' }}>
             <p>
     Phantom issues a cautionary notice regarding the sensitive nature of gambling. Should you choose to proceed, it's at your discretion to engage in gambling activities, disregarding this warning.
-    <br/><br/>
+    <br/>
     If you harbor any doubts about linking to and gambling on an unfamiliar website like ours, consider creating a separate wallet dedicated solely to gambling purposes.
 </p>
-<br/><br/>
+<br/>
 <p>
     Our platform operates with full decentralization. Upon connecting, you gain access to execute and authorize transactions. This is because each bet placed corresponds to a program on the Solana Blockchain, necessitating a transaction signature for every bet within the platform's games. Additionally, we utilize the GAMBA SDK Infrastructure, a decentralized betting platform on Solana.
 </p>
-<br/><br/>
+<br/>
 <p>
     <b>1. Age Requirement:</b> You must be at least 18 years old.
     <br/>
