@@ -36,7 +36,7 @@ export const POOLS = [
 
 
   // COME:
-  lp('H9m2W9LzRiCGHykGe2buHhwnjwZUDfiznQCGCpvib3CA'),
+  lp('89KX9c3rNoW5sVnwMQvPPFgYKxpABupCSqXUtB1CW5J2'),
   // SOL:
   lp('So11111111111111111111111111111111111111112'),
   // Fake token:
