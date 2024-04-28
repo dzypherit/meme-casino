@@ -107,6 +107,11 @@ export function WelcomeBanner() {
         <p>
         A fair, simple, and decentralized casino built on top of Solana Blockchain.
         </p>
+        <br/>
+        <br/>
+        <p>
+        Laugh and Gamble Responsibly
+        </p>
       </div>
       <Buttons>
         <button onClick={() => window.open('https://t.me/casinoofmemes', '_blank')}>
