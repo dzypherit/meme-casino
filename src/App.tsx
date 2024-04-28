@@ -56,15 +56,27 @@ export default function App() {
           <h1>Welcome</h1>
           <div style={{ position: 'relative' }}>
             <div style={{ maxHeight: '400px', padding: '10px', overflow: 'auto', position: 'relative' }}>
-              <p><b>1. Age Requirement:</b> Must be at least 18 years old.</p>
-              <p><b>2. Legal Compliance:</b> Follow local laws responsibly.</p>
-              <p><b>3. Risk Acknowledgement:</b> Games involve risk; no guaranteed winnings.</p>
-              <p><b>4. No Warranty:</b> Games provided "as is"; operate randomly.</p>
-              <p><b>5. Limitation of Liability:</b> We're not liable for damages.</p>
-              <p><b>6. Licensing Disclaimer:</b> Not a licensed casino; for simulation only.</p>
-              <p><b>7. Fair Play:</b> Games are conducted fairly and transparently.</p>
-              <p><b>8. Data Privacy:</b> Your privacy is important to us.</p>
-              <p><b>9. Responsible Gaming:</b> Play responsibly; seek help if needed.</p>
+            <p>
+    Phantom issues a cautionary notice regarding the sensitive nature of gambling. Should you choose to proceed, it's at your discretion to engage in gambling activities, disregarding this warning.
+    <br/><br/>
+    If you harbor any doubts about linking to and gambling on an unfamiliar website like ours, consider creating a separate wallet dedicated solely to gambling purposes.
+</p>
+<br/><br/>
+<p>
+    Our platform operates with full decentralization. Upon connecting, you gain access to execute and authorize transactions. This is because each bet placed corresponds to a program on the Solana Blockchain, necessitating a transaction signature for every bet within the platform's games. Additionally, we utilize the GAMBA SDK Infrastructure, a decentralized betting platform on Solana.
+</p>
+<br/><br/>
+<p>
+    <b>1. Age Requirement:</b> You must be at least 18 years old.
+    <br/>
+    <b>2. Risk Acknowledgement:</b> Games involve risk, with no guaranteed winnings.
+    <br/>
+    <b>3. Fair Play:</b> Games are conducted fairly and transparently.
+    <br/>
+    <b>4. Data Privacy:</b> We prioritize your privacy.
+    <br/>
+    <b>5. Responsible Gaming:</b> Play responsibly and seek help if needed.
+</p>
             </div>
             <div style={{ background: 'linear-gradient(180deg, transparent, #15151f)', height: '50px', pointerEvents: 'none', width: '100%', position: 'absolute', bottom: '0px', left: '0px' }}></div>
           </div>
