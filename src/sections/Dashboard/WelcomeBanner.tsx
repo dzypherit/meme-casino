@@ -119,7 +119,7 @@ export function WelcomeBanner() {
         <button onClick={() => window.open('https://twitter.com/casinoofmemes', '_blank')}>
           🐦 Twitter
         </button>
-        <button onClick={() => window.open('#', '_blank')}>
+        <button onClick={() => window.open('https://raydium.io/swap/?outputCurrency=89KX9c3rNoW5sVnwMQvPPFgYKxpABupCSqXUtB1CW5J2', '_blank')}>
           🛒 Buy $COME
         </button>
       </Buttons>
