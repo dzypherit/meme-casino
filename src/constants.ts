@@ -35,8 +35,6 @@ const lp = (tokenMint: PublicKey | string, poolAuthority?: PublicKey | string): 
 export const POOLS = [
 
 
-  // COME:
-  lp('89KX9c3rNoW5sVnwMQvPPFgYKxpABupCSqXUtB1CW5J2'),
   // SOL:
   lp('So11111111111111111111111111111111111111112'),
   // Fake token:
@@ -51,15 +49,6 @@ export const DEFAULT_POOL = POOLS[0]
  * Alternatively, we can provide a fetcher method to automatically fetch metdata. See TOKEN_METADATA_FETCHER below.
  */
 export const TOKEN_METADATA: (Partial<TokenMeta> & {mint: PublicKey})[] = [
-  {
-    mint: new PublicKey('89KX9c3rNoW5sVnwMQvPPFgYKxpABupCSqXUtB1CW5J2'),
-    name: 'Casino of Memes',
-    symbol: '$COME',
-    image: '/cometoken.png',
-    baseWager: 1e6,
-    decimals: 6,
-    usdPrice: 0,
-  },
   {
     mint: FAKE_TOKEN_MINT,
     name: 'Fake',
